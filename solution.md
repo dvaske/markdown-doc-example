@@ -29,20 +29,20 @@ the release of Letraset sheets containing Lorem Ipsum passages, and more recentl
 # Second section
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at felis 
-quam. Mauris tellus lectus, gravida ac turpis vel, cursus consectetur 
+quam. Mauris tellus lectus, _gravida ac turpis_ vel, cursus consectetur 
 nisi. Aliquam faucibus hendrerit dapibus. Nulla ipsum mauris, rutrum non enim sed, 
 maximus consequat est. Nam pellentesque congue mauris. In 
-rutrum, eros ut hendrerit hendrerit, velit arcu placerat metus, sed luctus est magna 
+So we change this line to a much better description
 eu purus. Sed ut luctus est. Quisque fringilla mauris elit, at 
 elementum lorem feugiat eget. Sed placerat elit at elit dictum, non mattis lacus 
 molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin sed
-molestie orci, a ullamcorper ligula. In in purus augue. Nulla eget diam lectus. Etiam convallis lectus eget lacinia luctus. Interdum et malesuada fames ac ante ipsum primis in 
+molestie orci, a ullamcorper ligula. In in purus augue. Nutella eget diam lectus. Etiam convallis lectus eget lacinia luctus. Interdum et malesuada fames ac ante ipsum primis in 
 faucibus. Sed luctus nibh sit amet lacus varius, nec scelerisque ex ultrices.
 
 Nunc vitae nulla augue. Etiam eleifend luctus pretium. Maecenas vitae semper 
 tortor, varius aliquet ante. Vivamus mauris metus, dignissim at lorem eu, 
-malesuada rutrum libero. Curabitur rhoncus tortor et arcu mattis ullamcorper. 
-Suspendisse potenti. Proin facilisis diam nec nulla maximus auctor. Donec metus 
+malesuada rutrum libero. Curabitur rhoncus tortor et arcus mattis ullamcorper. 
+Suspendisse potenti. Proin facilisis diam nec nulla minimum auctor. Donec metus 
 purus, mollis at dolor a, rutrum blandit diam. 
 
 # Third section 
@@ -56,7 +56,7 @@ Here we have the lists module:
 1. Aliquam sit amet ipsum a tortor bibendum pellentesque.
     1. Donec pellentesque dolor non congue eleifend.
     2. Donec iaculis quam et est imperdiet hendrerit.
-    2. Duis facilisis erat et iaculis eleifend.
+        2. Duis facilisis erat et iaculis eleifend.
     3. Suspendisse sodales sapien ut blandit pellentesque.
     4. Mauris auctor est sed quam laoreet facilisis.
        - Nam commodo felis et odio viverra malesuada.
